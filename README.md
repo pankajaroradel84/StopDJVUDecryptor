@@ -1,3 +1,24 @@
+
+🚨 **URGENT WARNING!** 🚨
+
+Beware of this service provider—they are **affiliated with ransomware attackers**! After sending me 2 decryption files and taking money in 2 installments, they blocked me and disappeared. Despite paying in full, I received **no further services or support**. ❌ This is a blatant scam!
+
+⚠️ **MY EXPERIENCE:**
+- The provider is based in Pakistan, confirmed by their Instagram profile.
+- They use a UK number but never talk.
+- Payments are demanded through USDT.
+- Their ID on Binance is also Pakistani.
+
+⚠️ **DO NOT TRUST THEM!** ⚠️
+
+I urge everyone to be extremely cautious and do thorough research before engaging. **Don't fall victim to their deceitful tactics and empty promises!** 🛑
+
+**Spread the word and stay safe!**
+
+
+
+
+
 ### Hi there 👋
 ### About STOP DJVU Decryptor
 The STOP DJVU Decryptor is a highly effective tool for decryption of files affected by STOP/DJVU Ransomware. It employs AES256, Salsa20, and RSA algorithms to decrypt infected files and is connected to a vast online database to bypass the private key. The software utilizes the Personal ID (found in _readme.txt) to bypass encryptions. Unlike other free decryptors such as Emsisoft, the STOP DJVU Decryptor is specifically designed to decrypt files with online ID’s that cannot be decrypted otherwise.
